@@ -113,11 +113,6 @@ The following libraries were updated:
 * **icons:** Since this is a major package update we recommend looking through the upgrade guide https://fontawesome.com/how-to-use/on-the-web/setup/upgrading-from-version-4
 
 
-
-<a name="2.3.0"></a>
-# [2.3.0 - Corporate Theme](https://github.com/akveo/ngx-admin/compare/v2.2.0...v2.3.0) (2018-06-22)
-
-
 ### Bug Fixes
 
 * **buttons:** Uncheck checkbox after click ([#1721](https://github.com/akveo/ngx-admin/issues/1721)) ([fbe12a9](https://github.com/akveo/ngx-admin/commit/fbe12a9)), closes [#1697](https://github.com/akveo/ngx-admin/issues/1697)
@@ -132,7 +127,6 @@ The following libraries were updated:
 * **app:** set default font-size to 14px ([#1742](https://github.com/akveo/ngx-admin/issues/1742)) ([6d705d2](https://github.com/akveo/ngx-admin/commit/6d705d2))
 * **icons:** update icons, add new nebular icons to icons list ([#1738](https://github.com/akveo/ngx-admin/issues/1738)) ([cef6ea6](https://github.com/akveo/ngx-admin/commit/cef6ea6))
 * **readme:** add new theme ([#1744](https://github.com/akveo/ngx-admin/issues/1744)) ([d25ad7a](https://github.com/akveo/ngx-admin/commit/d25ad7a))
-* **theme:** add corporate theme ([#1727](https://github.com/akveo/ngx-admin/issues/1727)) ([e37f12d](https://github.com/akveo/ngx-admin/commit/e37f12d))
 * **toaster:** update toaster to latest version (6.0.0) ([#1722](https://github.com/akveo/ngx-admin/issues/1722)) ([b85034e](https://github.com/akveo/ngx-admin/commit/b85034e))
 
 

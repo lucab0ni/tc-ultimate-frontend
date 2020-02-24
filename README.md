@@ -24,12 +24,6 @@ Easy way to integrate ngx-admin with backend (.NET, Node.js, Java etc.).
 #### Dark
 <a target="_blank" href="http://akveo.com/ngx-admin/pages/dashboard?theme=dark&utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=themes"><img src="https://i.imgur.com/FAn5iXY.png"/></a>
 
-#### Cosmic
-<a target="_blank" href="http://akveo.com/ngx-admin/pages/dashboard?theme=cosmic&utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=themes"><img src="https://i.imgur.com/iJu2YDF.png"/></a>
-
-#### Corporate
-<a target="_blank" href="http://akveo.com/ngx-admin/pages/dashboard?theme=corporate&utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=themes"><img src="https://i.imgur.com/GpUt6NW.png"/></a>
-
 ### What's included:
 
 - Angular 8+ & Typescript
